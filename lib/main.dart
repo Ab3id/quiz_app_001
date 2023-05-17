@@ -37,7 +37,7 @@ class _QuizHomeState extends State<QuizHome> {
       'answer': false,
     },
     {
-      'qn': 'Is google ?',
+      'qn': 'Is google a search engine ?',
       'answer': true,
     },
   ];
